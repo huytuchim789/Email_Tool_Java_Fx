@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<SplitPane dividerPositions="0.3" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" orientation="VERTICAL" prefHeight="304.0" prefWidth="456.0" style="-fx-background-color: #FFFFFF;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.IntroController">
+  <items>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="57.0" prefWidth="398.0">
+         <children>
+            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="39.0" layoutY="14.0" prefHeight="9.0" prefWidth="376.0" text="SIMPLE SENDING EMAIL TOOL" textFill="#21cdb6">
+               <font>
+                  <Font name="System Bold Italic" size="24.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="5.0" layoutX="111.0" layoutY="49.0" prefHeight="21.0" prefWidth="233.0" text="Made by Team 1" textFill="#16b1bc">
+               <font>
+                  <Font name="System Bold Italic" size="15.0" />
+               </font>
+            </Label>
+         </children></AnchorPane>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="219.0" prefWidth="430.0">
+         <children>
+            <Label alignment="CENTER" layoutX="39.0" layoutY="-3.0" prefHeight="21.0" prefWidth="376.0" text="SoICT INNOVATION CLUB" textFill="#d9d909">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="143.0" fitWidth="233.0" layoutX="111.0" layoutY="32.0">
+               <image>
+                  <Image url="@../Images/SinnoLogo.png" />
+               </image>
+            </ImageView>
+         </children></AnchorPane>
+  </items>
+</SplitPane>

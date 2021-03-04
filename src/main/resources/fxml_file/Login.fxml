@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="loginScene" cache="true" prefHeight="369.0" prefWidth="538.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.LoginController">
+   <children>
+      <Pane layoutX="62.0" layoutY="169.0" prefHeight="107.0" prefWidth="484.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0">
+         <children>
+            <VBox layoutX="14.0" layoutY="20.0" prefHeight="67.0" prefWidth="240.0" spacing="5.0">
+               <children>
+                  <JFXTextField fx:id="userName" cache="true" promptText="User Email" />
+                  <JFXPasswordField fx:id="password" cache="true" cacheHint="SPEED" promptText="User Password" />
+               </children>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </VBox>
+            <VBox layoutX="271.0" layoutY="9.0" prefHeight="89.0" prefWidth="229.0" spacing="10.0">
+               <children>
+                  <Label prefHeight="37.0" prefWidth="217.0" text="Select sever to send mails:">
+                     <font>
+                        <Font name="System Bold Italic" size="16.0" />
+                     </font>
+                  </Label>
+                  <JFXComboBox fx:id="choiceSever" prefWidth="200.0" style="-fx-background-color: #d8d9d8;" />
+               </children>
+            </VBox>
+         </children>
+      </Pane>
+      <ImageView fitHeight="107.0" fitWidth="169.0" layoutX="226.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/User.png" />
+         </image>
+      </ImageView>
+      <JFXButton fx:id="loginButton" buttonType="RAISED" layoutX="232.0" layoutY="276.0" onAction="#login" prefHeight="31.0" prefWidth="94.0" style="-fx-background-color: #d8d9d8;" text="Log in" />
+   </children>
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+   </padding>
+</AnchorPane>
