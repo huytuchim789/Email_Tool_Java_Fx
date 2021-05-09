@@ -2,10 +2,13 @@
 Using maven to control MailTool App
 言語：Java
 フレームワーク：JavaFX
+
 Link LandingPage：　
+
 https://sinnomail.mobirisesite.com/?fbclid=
 IwAR0dYnsqXz4wUmsjPTzwfb1w4o53F7ue
 H2SxG4GqtHvQU6pFQU1wcHc8_AY
+
 
 目標：
 企業ではメールマージは、ビジネス活動におけるメールマージアプリケーションのアクティビティの一部を操作するだけでなく、ビジネス活動の不可欠な部分と見なされます。例えば、パートナーへの招待状の作成や会社のイベントに参加する顧客のリスト、ワンクリックで多くの人の証明書を印刷し、年末に従業員の給与変更確認を電子メールで送信し、労働契約、支払いの半券、通知、お礼の手紙を操作する時間の短縮を目指します。
