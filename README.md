@@ -8,11 +8,9 @@ Link LandingPage：　
 https://sinnomail.mobirisesite.com/?fbclid=IwAR0dYnsqXz4wUmsjPTzwfb1w4o53F7ueH2SxG4GqtHvQU6pFQU1wcHc8_AY
 
 
-目標：
-企業ではメールマージは、ビジネス活動におけるメールマージアプリケーションのアクティビティの一部を操作するだけでなく、ビジネス活動の不可欠な部分と見なされます。例えば、パートナーへの招待状の作成や会社のイベントに参加する顧客のリスト、ワンクリックで多くの人の証明書を印刷し、年末に従業員の給与変更確認を電子メールで送信し、労働契約、支払いの半券、通知、お礼の手紙を操作する時間の短縮を目指します。
+Goal: In the enterprise, email merging is considered an integral part of business activity, as well as manipulating some of the activities of the email merging application in business activity. For example, create a partner invitation, print a list of customers attending company events, print many people's certificates with one click, email employee salary change confirmations at the end of the year, and work contracts. We aim to reduce the time required to operate payment stubs, notifications, and thank-you letters.
 
-説明：
-スタッフの採用やパートナーや顧客への招待状の作成、お知らせの作成などの大量メールを一遍に送信できる課題を解決するために、メールマージアプリケーションを作成したいと考えています。
+Description: I would like to create an email merging application to solve the problem of being able to send a large number of emails all at once, such as recruiting staff, creating invitations to partners and customers, and creating notifications.
 
-こだわりポイント:
-これは、JavaFXで実行されるデスクトップアプリです。アプリは、Linux、Windows、MacOSなどのすべてのデスクトッププラットフォームにインストールできます。ユーザーは、メールを送信するためにExcelファイルに入力するだけで済みます。アカウントとユーザーパスワードはデータベースに保存されないため、安全になります。
+Sticking points:
+This is a desktop app that runs in JavaFX. The app can be installed on all desktop platforms such as Linux, Windows and MacOS. The user only has to fill in the Excel file to send the email. Accounts and user passwords are not stored in the database, which makes them secure.
