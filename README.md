@@ -5,9 +5,7 @@ Using maven to control MailTool App
 
 Link LandingPage：　
 
-https://sinnomail.mobirisesite.com/?fbclid=
-IwAR0dYnsqXz4wUmsjPTzwfb1w4o53F7ue
-H2SxG4GqtHvQU6pFQU1wcHc8_AY
+https://sinnomail.mobirisesite.com/?fbclid=IwAR0dYnsqXz4wUmsjPTzwfb1w4o53F7ueH2SxG4GqtHvQU6pFQU1wcHc8_AY
 
 
 目標：
