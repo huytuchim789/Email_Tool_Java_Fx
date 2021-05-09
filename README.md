@@ -18,13 +18,13 @@ This is a desktop app that runs in JavaFX. The app can be installed on all deskt
 
 ![image](https://user-images.githubusercontent.com/64454372/117563172-51611300-b0ce-11eb-9042-cc87f79bda2e.png)
 
-Login User
+                                              Login User
 
 ![image](https://user-images.githubusercontent.com/64454372/117563178-5c1ba800-b0ce-11eb-9134-2512bff1e44c.png)
 
-Input email name into excel file
+                                  Input email name into excel file
 
 ![image](https://user-images.githubusercontent.com/64454372/117563200-6d64b480-b0ce-11eb-8991-962f6e73997c.png)
 
-Send Mail Interface
+                                          Send Mail Interface
 
