@@ -16,7 +16,7 @@ Sticking points:
 This is a desktop app that runs in JavaFX. The app can be installed on all desktop platforms such as Linux, Windows and MacOS. The user only has to fill in the Excel file to send the email. Accounts and user passwords are not stored in the database, which makes them secure.
 
 
-![image](https://user-images.githubusercontent.com/64454372/117563172-51611300-b0ce-11eb-9042-cc87f79bda2e.png)
+                                ![image](https://user-images.githubusercontent.com/64454372/117563172-51611300-b0ce-11eb-9042-cc87f79bda2e.png)
 
                                               Login User
 
